@@ -25,12 +25,13 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Create sample file share folders with permissions
+- Access file shares as a normal users
+- Create an "ACCOUNTANTS" Sccurity Group, assign permissions, and test access
 
 <h2>Actions and Observations</h2>
+
+<h3>Create sample file share folders with permissions</h3>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
