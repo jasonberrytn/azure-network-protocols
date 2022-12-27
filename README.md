@@ -88,6 +88,7 @@ Once your file is created, type a sample text, go to File>Save As-->Name your fi
 </p>
 <br />
 
+<h2>Attempt to access file shares as a normal user</h2>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
