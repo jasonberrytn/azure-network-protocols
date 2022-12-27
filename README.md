@@ -53,10 +53,14 @@ From your domain controller in the C:\ drive create 4 folders: "read-access", "w
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/bgCYhn3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In Windows C:\ drive right click the folder-->hover to Properties-->Click on the Sharing Tab-->Click on Share from the Sharing tab-->Type Domain Users in the bar above the name and permission level. 
+
+There will be a drop down menu that will allow you to select the permission level for your domain users.  Check "Read" for the read-access folder, "Read/Write" for the write-access folder, and uncheck read/write and read for the no-access folder. 
+
+We will go to the client PC and check folders for access in the following steps.
 </p>
 <br />
 
