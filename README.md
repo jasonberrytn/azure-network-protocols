@@ -90,10 +90,10 @@ Once your file is created, type a sample text, go to File>Save As-->Name your fi
 
 <h2>Attempt to access file shares as a normal user</h2>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/E5yyzi2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+On Client-1, navigate to the shared by typing Run in the search bar-->type \\DC-1-->The network folder should populate in a new window.
 </p>
 <br />
 
