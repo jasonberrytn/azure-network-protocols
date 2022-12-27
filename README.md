@@ -58,7 +58,7 @@ From your domain controller in the C:\ drive create 4 folders: "read-access", "w
 <p>
 In Windows C:\ drive right click the folder-->hover to Properties-->Click on the Sharing Tab-->Click on Share from the Sharing tab-->Type Domain Users in the bar above the name and permission level. 
 
-There will be a drop down menu that will allow you to select the permission level for your domain users.  Check "Read" for the read-access folder, "Read/Write" for the write-access folder, and uncheck read/write and read for the no-access folder. 
+There will be a drop down menu that will allow you to select the permission level for your domain users.  Check "Read" for the read-access folder, "Read/Write" for the write-access folder. Instead of adding domain users in the no-access folder, we will use domain admins instead and provide them with "Read/Write" access.  This will give normal users no access to that folder. 
 
 We will go to the client PC and check folders for access in the following steps.
 </p>
@@ -73,10 +73,10 @@ Once your permissions are set there, you can send  and email of that shared fold
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PW1fiMv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Open each folder and create a text document that we can test for access when we log into the client virtual machine as a domain user.  To create the document, right click on each folder-->hover to New-->hover to text document and click.
 </p>
 <br />
 
