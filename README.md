@@ -65,10 +65,10 @@ We will go to the client PC and check folders for access in the following steps.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Z8kDOs0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once your permissions are set there, you can send  and email of that shared folder or share the link into another app.  In the individual items section, there will be a file path that you can copy and paste in a windows explorer search box that will take you to that specific folder.
 </p>
 <br />
 
