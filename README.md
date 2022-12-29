@@ -46,6 +46,7 @@ In Microsoft Azure, create a resource group and two virtual machines. Creating t
 </p>
 <p>
 Go into your Windows Virtual Machine and open an internet browser and search "download Wireshark" and download it from the actual website.
+Wireshark is a network protocol analyzer. It is used to troubleshoot networks, analysis, software & protocol development, and education.  It is the most widely used network analyzer. 
 </p>
 <br />
 
