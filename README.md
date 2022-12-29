@@ -68,10 +68,10 @@ Open Wireshark and click on the blue fin icon located right under the file menu.
 
 <h3>Observe ICMP Traffic</h3>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fpgRTct.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Use the Remote Destkop Windows 10 Virtual Machine. Use Wireshark to filter traffic for ICMP by typing it in the filter bar and click on the blue arrow button to the right to start the filter.
 </p>
 <br />
 
