@@ -66,7 +66,7 @@ Open Wireshark and click on the blue fin icon located right under the file menu.
 </p>
 <br />
 
-<h3>Observe IMCP Traffic</h3>
+<h3>Observe ICMP Traffic</h3>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
