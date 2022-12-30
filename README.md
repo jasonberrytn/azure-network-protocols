@@ -189,6 +189,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br />
 
+<h3>Observe RDp Traffic</h3>
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -199,7 +201,7 @@ Observe the IP address and DNS returned in the data packets in WireShark
 </p>
 <br />
 
-<h3>Observe RDp Traffic</h3>
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
