@@ -192,22 +192,13 @@ From Windows 10 virtual machine. Filter out DNS network traffic in Wireshark by 
 <h3>Observe RDP Traffic</h3>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YeQbDTP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-From Windows 10 virtual machine.  Filter out DNS network traffic in Wireshark by typing DNS in the search bar.  From Windows PowerShell give command line "nslookup www.google.com" 
-Observe Google's IP address and DNS returned in PowerShell.  
-Observe the IP address and DNS returned in the data packets in WireShark
+From your Windows 10 virtual machine. Go to WireShark and type RDP in the search bar to filter only RDP traffic.  Click on the blue arrow to the right to activate the filter.
+Observe the network traffice in WireShark. 
 </p>
 <br />
 
 
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
