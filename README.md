@@ -158,10 +158,12 @@ Type your password and hit enter.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uqsE3hg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+From your Window 10 virtual machine (VM1) type in commands (ld, uname -a, pwd, and ls lasth) and observe the output in PowerShell and data packets in WireShark. 
+
+To logout out of the server, type "exit" in the command line in PowerShell and hit enter.
 </p>
 <br />
 
