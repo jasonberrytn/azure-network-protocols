@@ -167,6 +167,8 @@ To logout out of the server, type "exit" in the command line in PowerShell and h
 </p>
 <br />
 
+<h3>Observe DHCP Traffic</h3>
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
