@@ -170,12 +170,16 @@ To logout out of the server, type "exit" in the command line in PowerShell and h
 <h3>Observe DHCP Traffic</h3>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PGWImY3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+From your  Windows 10 virtual machine. Filter DHCP traffic in the search bar on WireShark.  On PowerShell renew your ip address lease by typing in the command line ipconfig /renew. *Your virtual machine will get assigned a new IP address. Observe the DHCP traffic in WireShark echo request. 
+
+*Note your VM may disconnect when getting assigned a new IP address.
 </p>
 <br />
+
+<h3>Observe DNS Traffic</h3>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
